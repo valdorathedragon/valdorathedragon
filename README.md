@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Vedant Srivastava 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
-<!--
-**valdorathedragon/valdorathedragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&width=435&lines=Agentic+%26+GenAI+Engineer;Python+%26+Prompt+Engineering;Building+AI+Threat+Detection+Tools" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+```yaml
+Degree: "BCA in AI & Data Science @ K.R. Mangalam University"
+Focus: "Agentic Workflows, AI Threat Detection & Automation Systems"
+Tech_Stack: ["Python", "SQL", "Ollama / Qwen", "Prompt Engineering", "Git"]
+Current_Projects: "Building AI-driven anomaly detection & automation tools"
