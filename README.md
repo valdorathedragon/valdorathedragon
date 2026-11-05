@@ -6,18 +6,6 @@
 
 ---
 
-<div align="center">
-
-<a href="https://github.com/valdorathedragon/mule-account-detector">
-  <img src="https://raw.githubusercontent.com/valdorathedragon/mule-account-detector/main/architecture.svg?v=2" alt="Mule Detector Architecture" width="100%" />
-</a>
-
-<br />
-
-**[View Repository & Codebase →](https://github.com/valdorathedragon/mule-account-detector)**
-
-</div>
-
 
 ### 🚀 About Me
 
