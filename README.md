@@ -6,6 +6,10 @@
 
 ---
 
+## Connect With Me
+- **LinkedIn:** [www.linkedin.com/in/vedant-srivastava-945123404]
+- **Email:** [2601060015@krmu.edu.in]
+
 
 ### 🚀 About Me
 
