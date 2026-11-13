@@ -109,21 +109,17 @@ Undergraduate student pursuing a **Bachelor of Computer Applications (BCA) in Ar
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=valdorathedragon&show_icons=true&bg_color=0b0d1e&title_color=22d3ee&icon_color=f59e0b&text_color=f8fafc&border_color=3b82f6&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=valdorathedragon&show_icons=true&bg_color=05060f&title_color=22d3ee&icon_color=f59e0b&text_color=f8fafc&border_color=8b5cf6&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=valdorathedragon&show_icons=true&bg_color=0b0d1e&title_color=22d3ee&icon_color=f59e0b&text_color=f8fafc&border_color=3b82f6" width="49%" alt="Vedant Srivastava GitHub Stats" />
-</picture>
+<p>
+  <img src="https://img.shields.io/github/followers/valdorathedragon?label=Followers&style=for-the-badge&color=22d3ee&labelColor=0b0d1e&logo=github&logoColor=22d3ee" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/valdorathedragon?label=Total%20Stars&style=for-the-badge&color=f59e0b&labelColor=0b0d1e&logo=github&logoColor=f59e0b" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Public_Repos-Active-8b5cf6?style=for-the-badge&labelColor=0b0d1e&logo=git&logoColor=8b5cf6" alt="Active Repositories" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=valdorathedragon&layout=compact&bg_color=0b0d1e&title_color=8b5cf6&text_color=f8fafc&border_color=22d3ee&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=valdorathedragon&layout=compact&bg_color=05060f&title_color=8b5cf6&text_color=f8fafc&border_color=3b82f6&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdorathedragon&layout=compact&bg_color=0b0d1e&title_color=8b5cf6&text_color=f8fafc&border_color=22d3ee" width="49%" alt="Vedant Srivastava Top Languages" />
-</picture>
+<img src="https://streak-stats.demolab.com?user=valdorathedragon&background=0B0D1E&border=3B82F6&stroke=3B82F6&ring=22D3EE&fire=F59E0B&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=8B5CF6&dates=94A3B8" width="85%" alt="Vedant Srivastava GitHub Streak Stats" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=valdorathedragon&bg_color=05060f&color=22d3ee&line=8b5cf6&point=f59e0b&area=true&hide_border=false&border_color=3b82f6" width="100%" alt="Vedant Srivastava Contribution Activity Graph" />
+<img src="https://ghchart.rshah.org/22d3ee/valdorathedragon" width="95%" alt="Vedant Srivastava Contribution Heatmap" />
 
 </div>
 
