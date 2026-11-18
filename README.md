@@ -34,7 +34,7 @@
 
 ## ☀️ Home Star — About Me
 
-Undergraduate student pursuing a **Bachelor of Computer Applications (BCA) in Artificial Intelligence & Data Science** at **K.R. Mangalam University, Gurugram** (Expected: December 2029)[cite: 8]. Focused on building anomaly detection pipelines using **Python**, **Pandas**, **Scikit-Learn**, and **SQLite**, alongside **Linux** shell scripting, **REST APIs**, and **Prompt Engineering**[cite: 8].
+Undergraduate student pursuing a **Bachelor of Computer Applications (BCA) in Artificial Intelligence & Data Science** at **K.R. Mangalam University, Gurugram** (Expected: December 2029). Focused on building anomaly detection pipelines using **Python**, **Pandas**, **Scikit-Learn**, and **SQLite**, alongside **Linux** shell scripting, **REST APIs**, and **Prompt Engineering**.
 
 ---
 
